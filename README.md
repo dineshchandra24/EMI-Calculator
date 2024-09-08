@@ -7,7 +7,8 @@ Features:
 Simple User Interface: Intuitive design for easy input of loan parameters.
 Dynamic Calculations: Real-time updates as users adjust loan amount, interest rate, or tenure.
 
-Technology Used:
+                                                                                       Technology Used ---->>
 
 Frontend: HTML,CSS
+
 Backend: JavaScript
