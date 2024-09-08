@@ -5,6 +5,7 @@ The EMI Calculator is a versatile and user-friendly tool designed to help users 
                                                       Features :
 
 Simple User Interface: Intuitive design for easy input of loan parameters.
+
 Dynamic Calculations: Real-time updates as users adjust loan amount, interest rate, or tenure.
 
                                                      Technology Used --->>
