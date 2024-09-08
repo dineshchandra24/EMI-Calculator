@@ -13,3 +13,6 @@ Dynamic Calculations: Real-time updates as users adjust loan amount, interest ra
 Frontend: HTML,CSS
 
 Backend: JavaScript
+
+                                                     Preview :
+https://dineshchandra24.github.io/EMI-Calculator/
