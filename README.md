@@ -14,5 +14,5 @@ Frontend: HTML,CSS
 
 Backend: JavaScript
 
-                                                     Preview :
+                                                      Preview :
 https://dineshchandra24.github.io/EMI-Calculator/
