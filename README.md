@@ -10,5 +10,4 @@ Dynamic Calculations: Real-time updates as users adjust loan amount, interest ra
 Technology Used:
 
 Frontend: HTML,CSS
-
 Backend: JavaScript
